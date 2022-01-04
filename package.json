@@ -1,0 +1,22 @@
+{
+  "name": "pyy-tools",
+  "version": "1.0.0",
+  "description": "tools",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PanYuYi/pyy-tools.git"
+  },
+  "keywords": [
+    "tools"
+  ],
+  "author": "PanYuYi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PanYuYi/pyy-tools/issues"
+  },
+  "homepage": "https://github.com/PanYuYi/pyy-tools#readme"
+}
